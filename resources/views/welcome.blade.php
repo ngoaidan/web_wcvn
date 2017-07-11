@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-    <!-- BEGIN HEAD -->
+    <!-- BEGIN HEAD --> 
     <head>
         <meta charset="utf-8"/>
         <title>Metronic "Acecv" Frontend Freebie</title>
