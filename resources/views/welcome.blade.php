@@ -11,18 +11,18 @@
 
         <!-- GLOBAL MANDATORY STYLES -->
         <link href="http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet" type="text/css">
-        <link href="{{url('')}}/public/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css"/>
-        <link href="{{url('')}}/public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <link href="{{url('')}}/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css"/>
+        <link href="{{url('')}}/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 
         <!-- PAGE LEVEL PLUGIN STYLES -->
-        <link href="{{url('')}}/public/css/animate.css" rel="stylesheet">
-        <link href="{{url('')}}/public/vendor/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>
+        <link href="{{url('')}}/css/animate.css" rel="stylesheet">
+        <link href="{{url('')}}/vendor/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>
 
         <!-- THEME STYLES -->
-        <link href="{{url('')}}/public/css/layout.min.css" rel="stylesheet" type="text/css"/>
+        <link href="{{url('')}}/css/layout.min.css" rel="stylesheet" type="text/css"/>
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="{{url('')}}/public/favicon.ico"/>
+        <link rel="shortcut icon" href="{{url('')}}/favicon.ico"/>
     </head>
     <!-- END HEAD -->
 
@@ -43,8 +43,8 @@
 
                         <!-- Logo -->
                         <div class="logo">
-                            <a class="logo-wrap" href="{{url('')}}/public/#body">
-                                <img class="logo-img" src="{{url('')}}/public/img/logo.png" alt="Asentus Logo">
+                            <a class="logo-wrap" href="{{url('')}}/#body">
+                                <img class="logo-img" src="{{url('')}}/img/logo.png" alt="Asentus Logo">
                             </a>
                         </div>
                         <!-- End Logo -->
@@ -54,11 +54,11 @@
                     <div class="collapse navbar-collapse nav-collapse">
                         <div class="menu-container">
                             <ul class="nav navbar-nav navbar-nav-right">
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/public/#body">Home</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/public/#about">About</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/public/#experience">Experience</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/public/#work">Work</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/public/#contact">Contact</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/#body">Home</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/#about">About</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/#experience">Experience</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/#work">Work</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{url('')}}/#contact">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -79,16 +79,16 @@
                             <p class="promo-block-text">Web &amp; UI/UX Designer</p>
                         </div>
                         <ul class="list-inline">
-                            <li><a href="{{url('')}}/public/#" class="social-icons"><i class="icon-social-facebook"></i></a></li>
-                            <li><a href="{{url('')}}/public/#" class="social-icons"><i class="icon-social-twitter"></i></a></li>
-                            <li><a href="{{url('')}}/public/#" class="social-icons"><i class="icon-social-dribbble"></i></a></li>
-                            <li><a href="{{url('')}}/public/#" class="social-icons"><i class="icon-social-behance"></i></a></li>
-                            <li><a href="{{url('')}}/public/#" class="social-icons"><i class="icon-social-linkedin"></i></a></li>
+                            <li><a href="{{url('')}}/#" class="social-icons"><i class="icon-social-facebook"></i></a></li>
+                            <li><a href="{{url('')}}/#" class="social-icons"><i class="icon-social-twitter"></i></a></li>
+                            <li><a href="{{url('')}}/#" class="social-icons"><i class="icon-social-dribbble"></i></a></li>
+                            <li><a href="{{url('')}}/#" class="social-icons"><i class="icon-social-behance"></i></a></li>
+                            <li><a href="{{url('')}}/#" class="social-icons"><i class="icon-social-linkedin"></i></a></li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
                         <div class="promo-block-img-wrap">
-                            <img class="promo-block-img img-responsive" src="{{url('')}}/public/img/mockup/avatar-01.png" align="Avatar">
+                            <img class="promo-block-img img-responsive" src="{{url('')}}/img/mockup/avatar-01.png" align="Avatar">
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
             <div class="container content-lg">
                 <div class="row">
                     <div class="col-sm-5 sm-margin-b-60">
-                        <img class="full-width img-responsive" src="{{url('')}}/public/img/500x700/01.jpg" alt="Image">
+                        <img class="full-width img-responsive" src="{{url('')}}/img/500x700/01.jpg" alt="Image">
                     </div>
                     <div class="col-sm-7">
                         <div class="section-seperator margin-b-50">
@@ -113,7 +113,7 @@
                                     <p>I'm Alisa Portman, orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                     <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                 </div>
-                                <a href="{{url('')}}/public/#" class="btn-theme btn-theme-md btn-default-bg text-uppercase">Download my CV</a>
+                                <a href="{{url('')}}/#" class="btn-theme btn-theme-md btn-default-bg text-uppercase">Download my CV</a>
                             </div>
                         </div>
 
@@ -159,7 +159,7 @@
                                     <h3>Illustrator</h3>
                                     <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                 </div>
-                                <a href="{{url('')}}/public/#" class="content-wrapper-link"></a>    
+                                <a href="{{url('')}}/#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 md-margin-b-4">
@@ -171,7 +171,7 @@
                                     <h3 class="color-white">Graphic Design</h3>
                                     <p class="color-white margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                 </div>
-                                <a href="{{url('')}}/public/#" class="content-wrapper-link"></a>    
+                                <a href="{{url('')}}/#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 sm-margin-b-4">
@@ -183,7 +183,7 @@
                                     <h3>Photoshop</h3>
                                     <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                 </div>
-                                <a href="{{url('')}}/public/#" class="content-wrapper-link"></a>    
+                                <a href="{{url('')}}/#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -195,7 +195,7 @@
                                     <h3>Sketch</h3>
                                     <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                 </div>
-                                <a href="{{url('')}}/public/#" class="content-wrapper-link"></a>    
+                                <a href="{{url('')}}/#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                     </div>
@@ -221,12 +221,12 @@
                     <div class="col-sm-4 sm-margin-b-50">
                         <div class="margin-b-20">
                             <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                                <img class="img-responsive" src="{{url('')}}/public/img/970x647/01.jpg" alt="Latest Products Image">
+                                <img class="img-responsive" src="{{url('')}}/img/970x647/01.jpg" alt="Latest Products Image">
                             </div>
                         </div>
-                        <h4><a href="{{url('')}}/public/#">Triangle Roof</a> <span class="text-uppercase margin-l-20">Management</span></h4>
+                        <h4><a href="{{url('')}}/#">Triangle Roof</a> <span class="text-uppercase margin-l-20">Management</span></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="{{url('')}}/public/#">Read More</a>
+                        <a class="link" href="{{url('')}}/#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
 
@@ -234,12 +234,12 @@
                     <div class="col-sm-4 sm-margin-b-50">
                         <div class="margin-b-20">
                             <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                                <img class="img-responsive" src="{{url('')}}/public/img/970x647/02.jpg" alt="Latest Products Image">
+                                <img class="img-responsive" src="{{url('')}}/img/970x647/02.jpg" alt="Latest Products Image">
                             </div>
                         </div>
-                        <h4><a href="{{url('')}}/public/#">Curved Corners</a> <span class="text-uppercase margin-l-20">Developmeny</span></h4>
+                        <h4><a href="{{url('')}}/#">Curved Corners</a> <span class="text-uppercase margin-l-20">Developmeny</span></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="{{url('')}}/public/#">Read More</a>
+                        <a class="link" href="{{url('')}}/#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
 
@@ -247,12 +247,12 @@
                     <div class="col-sm-4 sm-margin-b-50">
                         <div class="margin-b-20">
                             <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                                <img class="img-responsive" src="{{url('')}}/public/img/970x647/03.jpg" alt="Latest Products Image">
+                                <img class="img-responsive" src="{{url('')}}/img/970x647/03.jpg" alt="Latest Products Image">
                             </div>
                         </div>
-                        <h4><a href="{{url('')}}/public/#">Bird On Green</a> <span class="text-uppercase margin-l-20">Design</span></h4>
+                        <h4><a href="{{url('')}}/#">Bird On Green</a> <span class="text-uppercase margin-l-20">Design</span></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="{{url('')}}/public/#">Read More</a>
+                        <a class="link" href="{{url('')}}/#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
                 </div>
@@ -269,22 +269,22 @@
                     <!-- Swiper Wrapper -->
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="{{url('')}}/public/img/clients/01.png" alt="Clients Logo">
+                            <img class="swiper-clients-img" src="{{url('')}}/img/clients/01.png" alt="Clients Logo">
                         </div>
                         <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="{{url('')}}/public/img/clients/02.png" alt="Clients Logo">
+                            <img class="swiper-clients-img" src="{{url('')}}/img/clients/02.png" alt="Clients Logo">
                         </div>
                         <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="{{url('')}}/public/img/clients/03.png" alt="Clients Logo">
+                            <img class="swiper-clients-img" src="{{url('')}}/img/clients/03.png" alt="Clients Logo">
                         </div>
                         <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="{{url('')}}/public/img/clients/04.png" alt="Clients Logo">
+                            <img class="swiper-clients-img" src="{{url('')}}/img/clients/04.png" alt="Clients Logo">
                         </div>
                         <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="{{url('')}}/public/img/clients/05.png" alt="Clients Logo">
+                            <img class="swiper-clients-img" src="{{url('')}}/img/clients/05.png" alt="Clients Logo">
                         </div>
                         <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="{{url('')}}/public/img/clients/06.png" alt="Clients Logo">
+                            <img class="swiper-clients-img" src="{{url('')}}/img/clients/06.png" alt="Clients Logo">
                         </div>
                     </div>
                     <!-- End Swiper Wrapper -->
@@ -295,7 +295,7 @@
         <!-- End Clients -->
 
         <!-- Promo Banner -->
-        <div class="promo-banner parallax-window" data-parallax="scroll" data-image-src="{{url('')}}/public/img/1920x1080/01.jpg">
+        <div class="promo-banner parallax-window" data-parallax="scroll" data-image-src="{{url('')}}/img/1920x1080/01.jpg">
             <div class="container-sm content-lg">
                 <h2 class="promo-banner-title">Displaying the Result</h2>
                 <p class="promo-banner-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
@@ -318,19 +318,19 @@
                     <div class="row">
                         <div class="col-md-3 col-xs-6 md-margin-b-30">
                             <h4>Location</h4>
-                            <a href="{{url('')}}/public/#">Brookyln, New York</a>
+                            <a href="{{url('')}}/#">Brookyln, New York</a>
                         </div>
                         <div class="col-md-3 col-xs-6 md-margin-b-30">
                             <h4>Phone</h4>
-                            <a href="{{url('')}}/public/#">+77 234 548 00 00</a>
+                            <a href="{{url('')}}/#">+77 234 548 00 00</a>
                         </div>
                         <div class="col-md-3 col-xs-6">
                             <h4>Email</h4>
-                            <a href="{{url('')}}/public/mailto:#">alex.teseira@gmail.com</a>
+                            <a href="{{url('')}}/mailto:#">alex.teseira@gmail.com</a>
                         </div>
                         <div class="col-md-3 col-xs-6">
                             <h4>Web</h4>
-                            <a href="{{url('')}}/public/#">alex.teseira.com</a>
+                            <a href="{{url('')}}/#">alex.teseira.com</a>
                         </div>
                     </div>
                     <!--// end row -->
@@ -345,10 +345,10 @@
             <div class="content container">
                 <div class="row">
                     <div class="col-xs-6">
-                        <img class="footer-logo" src="{{url('')}}/public/img/logo.png" alt="Acecv Logo">
+                        <img class="footer-logo" src="{{url('')}}/img/logo.png" alt="Acecv Logo">
                     </div>
                     <div class="col-xs-6 text-right sm-text-left">
-                        <p class="margin-b-0"><a class="fweight-700" href="{{url('')}}/public/http://keenthemes.com/preview/acecv/">Acecv</a> Theme Powered by: <a class="fweight-700" href="{{url('')}}/public/http://www.keenthemes.com/">KeenThemes.com</a></p>
+                        <p class="margin-b-0"><a class="fweight-700" href="{{url('')}}/http://keenthemes.com/preview/acecv/">Acecv</a> Theme Powered by: <a class="fweight-700" href="{{url('')}}/http://www.keenthemes.com/">KeenThemes.com</a></p>
                     </div>
                 </div>
                 <!--// end row -->
@@ -357,28 +357,28 @@
         <!--========== END FOOTER ==========-->
 
         <!-- Back To Top -->
-        <a href="{{url('')}}/public/javascript:void(0);" class="js-back-to-top back-to-top">Top</a>
+        <a href="{{url('')}}/javascript:void(0);" class="js-back-to-top back-to-top">Top</a>
 
         <!-- JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
         <!-- CORE PLUGINS -->
-        <script src="{{url('')}}/public/vendor/jquery.min.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/vendor/jquery-migrate.min.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/jquery.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/jquery-migrate.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 
         <!-- PAGE LEVEL PLUGINS -->
-        <script src="{{url('')}}/public/vendor/jquery.easing.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/vendor/jquery.back-to-top.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/vendor/jquery.smooth-scroll.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/vendor/jquery.wow.min.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/vendor/jquery.parallax.min.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/vendor/jquery.appear.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/vendor/swiper/js/swiper.jquery.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/jquery.easing.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/jquery.back-to-top.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/jquery.smooth-scroll.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/jquery.wow.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/jquery.parallax.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/jquery.appear.js" type="text/javascript"></script>
+        <script src="{{url('')}}/vendor/swiper/js/swiper.jquery.min.js" type="text/javascript"></script>
 
         <!-- PAGE LEVEL SCRIPTS -->
-        <script src="{{url('')}}/public/js/layout.min.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/js/components/progress-bar.min.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/js/components/swiper.min.js" type="text/javascript"></script>
-        <script src="{{url('')}}/public/js/components/wow.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/js/layout.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/js/components/progress-bar.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/js/components/swiper.min.js" type="text/javascript"></script>
+        <script src="{{url('')}}/js/components/wow.min.js" type="text/javascript"></script>
 
     </body>
     <!-- END BODY -->
