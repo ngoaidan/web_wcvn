@@ -18,3 +18,16 @@ Route::get('/', function () {
 Route::get('/php', function () {
     return view('phpinfo');
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::group(['prefix'=>'/admincp'],function(){
+    Route::get('/comments','CommentController@showComment');
+    //các route khác
+});
