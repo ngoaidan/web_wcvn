@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Http\Request;
-use App\Model\User;
+use App\User;
 /*
 |--------------------------------------------------------------------------
 | API Routes
