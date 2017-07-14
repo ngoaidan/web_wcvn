@@ -145,7 +145,7 @@ hello!
       </section>
       <section class="text-center spacer-bottom-20">
          <h3 class="no-margin">Thực phẩm sạch</h3>
-         <h5 class="no-margin">Thay đổi theo mùa</h5>
+         <h5 class="no-margin">Tốt cho sức khỏe gia đình bạn</h5>
       </section>
       <section class="clearfix row">
          <section class="col-md-12 col-lg-12">
